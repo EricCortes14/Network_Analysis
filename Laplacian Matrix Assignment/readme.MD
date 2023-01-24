@@ -1,8 +1,8 @@
-# Assignment 1
+# Laplacian Matrix
 
 ## Objective
 
-The objective of this assignment is to find the best pair and all pair similarity of genes using both Jaccard and Reznick methods. Using the dataset found under this assignment folder the appropriate functions are used to determine the final similarity number.
+This assigmment consists of a program that creates and displays a laplacian matrix when given an adjacency matrix as input.
 
 ## Programming Language
 
